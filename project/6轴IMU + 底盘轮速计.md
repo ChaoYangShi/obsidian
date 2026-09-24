@@ -1,4 +1,4 @@
-[kalman 滤波](obsidian://open?vault=learning&file=localization%2Fkalman%20%E6%BB%A4%E6%B3%A2)
+[kalman 滤波](obsidian://open?vault=learning&file=localization%2Fkalman%2Fkalman%20%E6%BB%A4%E6%B3%A2)
 ### 分析
 - 6轴的IMU只有加速度计和陀螺仪,能提供的观测值为 $a_x, a_y, a_z$ , $\omega_x, \omega_y,\omega_z$ ,同时由于没有磁力计,无法对陀螺仪的零漂进行修正
 - 没有RTK的情况下,需要进行局部odom建模,机器开机时,车头的方向为 $x$ 轴,基于右手坐标系,机器左边为 $y$ 轴,速度从底盘读取,沿着车头方向,不需要进行分解
