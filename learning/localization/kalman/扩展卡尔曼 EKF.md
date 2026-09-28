@@ -9,5 +9,12 @@
 $$
 P_k^- = F_kP_{k-1}F_k^T + Q
 $$
-
 同理,如果观测矩阵 $z$ 也是非线性的,那么也同样需要求观测函数的偏导数,得到雅可比矩阵 $H_k$
+
+雅可比矩阵,让状态变化函数对每个状态变量求偏导
+$$
+J_F(x_1,x_2) = \begin{bmatrix}
+\frac{\partial f_1}{\partial x_1} & \frac{\partial f_1}{\partial x_2} \\
+\frac{\partial f_2}{\partial x_1} & \frac{\partial f_2}{\partial x_2}
+\end{bmatrix}
+$$
