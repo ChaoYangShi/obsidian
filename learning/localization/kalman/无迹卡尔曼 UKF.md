@@ -60,4 +60,3 @@ K &= P_{xz}P_{zz}^{-1} \\
 P^+ &= P^- -  KP_{zz}K^T
 \end{aligned}
 $$
-
