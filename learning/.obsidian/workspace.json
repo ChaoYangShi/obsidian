@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bf6728cec08deeea",
+        "id": "feb1fc19d96c2af6",
         "type": "tabs",
         "children": [
           {
-            "id": "d05d29ad0c055c90",
+            "id": "b2094e98f57a6606",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/矩阵求导.md",
+                "file": "localization/kalman/扩展卡尔曼 EKF.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "矩阵求导"
+              "title": "扩展卡尔曼 EKF"
             }
           }
         ]
@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.16668701171875,
-    "collapsed": true
+    "width": 246.16668701171875
   },
   "right": {
     "id": "1535874fcd3396c6",
@@ -200,15 +199,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d05d29ad0c055c90",
+  "active": "b2094e98f57a6606",
   "lastOpenFiles": [
+    "localization/kalman/kalman 滤波.md",
+    "math/QR迭代法.md",
+    "math/线性代数/对称矩阵.md",
     "math/线性最小二乘法.md",
-    "math/矩阵求导.md",
+    "math/线性代数",
+    "math/线性代数/矩阵求导.md",
     "localization/IMU/IMU结构.md",
     "math",
     "localization/IMU/IMU标定.md",
     "localization/kalman/无迹卡尔曼 UKF.md",
-    "localization/kalman/kalman 滤波.md",
     "localization/kalman/扩展卡尔曼 EKF.md",
     "localization/kalman",
     "localization/IMU",
