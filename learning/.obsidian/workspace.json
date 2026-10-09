@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "feb1fc19d96c2af6",
+        "id": "3fdb4ded2c59fe99",
         "type": "tabs",
         "children": [
           {
-            "id": "b2094e98f57a6606",
+            "id": "c73653b7d6533092",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "localization/kalman/扩展卡尔曼 EKF.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "扩展卡尔曼 EKF"
+              "title": "新标签页"
             }
           }
         ]
@@ -199,8 +195,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b2094e98f57a6606",
+  "active": "c73653b7d6533092",
   "lastOpenFiles": [
+    "localization/kalman/扩展卡尔曼 EKF.md",
     "localization/kalman/kalman 滤波.md",
     "math/QR迭代法.md",
     "math/线性代数/对称矩阵.md",
@@ -211,7 +208,6 @@
     "math",
     "localization/IMU/IMU标定.md",
     "localization/kalman/无迹卡尔曼 UKF.md",
-    "localization/kalman/扩展卡尔曼 EKF.md",
     "localization/kalman",
     "localization/IMU",
     "localization/6轴IMU + 底盘轮速计.md",
