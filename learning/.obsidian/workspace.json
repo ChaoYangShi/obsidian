@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3fdb4ded2c59fe99",
+        "id": "c5d492b3eaf5994d",
         "type": "tabs",
         "children": [
           {
-            "id": "c73653b7d6533092",
+            "id": "77df38fc05af50f5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -195,15 +195,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c73653b7d6533092",
+  "active": "f533fdec4921adf2",
   "lastOpenFiles": [
+    "未命名.base",
+    "math/线性最小二乘法.md",
+    "math/凸优化",
+    "math/线性代数/多元二次函数.md",
+    "math/线性代数/矩阵求导.md",
+    "math/线性代数/对称矩阵.md",
+    "math/QR迭代法.md",
     "localization/kalman/扩展卡尔曼 EKF.md",
     "localization/kalman/kalman 滤波.md",
-    "math/QR迭代法.md",
-    "math/线性代数/对称矩阵.md",
-    "math/线性最小二乘法.md",
     "math/线性代数",
-    "math/线性代数/矩阵求导.md",
     "localization/IMU/IMU结构.md",
     "math",
     "localization/IMU/IMU标定.md",
@@ -211,7 +214,6 @@
     "localization/kalman",
     "localization/IMU",
     "localization/6轴IMU + 底盘轮速计.md",
-    "未命名.base",
     "欢迎.md",
     "engineering",
     "localization",
