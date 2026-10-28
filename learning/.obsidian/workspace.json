@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c5d492b3eaf5994d",
+        "id": "c4fac0cb1097a9e5",
         "type": "tabs",
         "children": [
           {
-            "id": "77df38fc05af50f5",
+            "id": "14eb779c71eed763",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "math/线性最小二乘法.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "线性最小二乘法"
             }
           }
         ]
@@ -195,8 +199,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f533fdec4921adf2",
+  "active": "14eb779c71eed763",
   "lastOpenFiles": [
+    "math/凸优化/理论/2. 凸集.md",
+    "math/凸优化/2 凸集.md",
+    "math/凸优化/理论",
     "未命名.base",
     "math/线性最小二乘法.md",
     "math/凸优化",
